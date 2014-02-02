@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2014   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MarkForMpls
+Photo URL    : http://www.flickr.com/photos/markformpls/10482108265/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 29 13:45:25 GMT-0500 2013
+Upload Date  : Fri Oct 25 16:23:59 GMT-0500 2013
+Views        : 31
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_4112
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)
