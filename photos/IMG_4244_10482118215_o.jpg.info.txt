@@ -1,0 +1,143 @@
+---- ExifTool ----
+ExifTool Version Number         : 9.41
+---- System ----
+File Name                       : IMG_4244_10482118215_o.jpg
+Directory                       : .
+File Size                       : 4.3 MB
+File Modification Date/Time     : 2014:02:02 16:53:45-06:00
+File Access Date/Time           : 2014:02:02 17:24:35-06:00
+File Inode Change Date/Time     : 2014:02:02 16:53:45-06:00
+File Permissions                : rw-r--r--
+---- File ----
+File Type                       : JPEG
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Image Width                     : 3744
+Image Height                    : 3341
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+---- JFIF ----
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 72
+Y Resolution                    : 72
+---- ICC-header ----
+Profile CMM Type                : Lino
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : IEC
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : HP
+Profile ID                      : 0
+---- ICC_Profile ----
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Luminance                       : 76.03647 80 87.12462
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+---- ICC-view ----
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+---- ICC-meas ----
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown (0)
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+---- IFD0 ----
+Make                            : Canon
+Camera Model Name               : Canon EOS 5D Mark II
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : Aperture 3.4.4
+Modify Date                     : 2013:09:29 14:33:50
+Artist                          : Photographer: Tim Davis
+Copyright                       : Copyright: Tim Davis, Consolidated Photo
+---- ExifIFD ----
+Exposure Time                   : 1/160
+F Number                        : 5.6
+Exposure Program                : Program AE
+ISO                             : 400
+Exif Version                    : 0221
+Date/Time Original              : 2013:09:29 14:33:50
+Create Date                     : 2013:09:29 14:33:50
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/166
+Aperture Value                  : 5.7
+Exposure Compensation           : 0
+Max Aperture Value              : 4.0
+Metering Mode                   : Multi-segment
+Flash                           : On, Fired
+Focal Length                    : 45.0 mm
+Sub Sec Time                    : 03
+Sub Sec Time Original           : 03
+Sub Sec Time Digitized          : 03
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 3744
+Exif Image Height               : 3341
+Focal Plane X Resolution        : 3849.211538
+Focal Plane Y Resolution        : 3908.141844
+Focal Plane Resolution Unit     : inches
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Scene Capture Type              : Standard
+---- XMP-x ----
+XMP Toolkit                     : XMP Core 5.1.2
+---- XMP-aux ----
+Owner Name                      : Tim Davis
+Lens ID                         : 237
+Lens Info                       : 24-105mm f/?
+Lens                            : Canon EF 24-105mm f/4L IS
+Flash Compensation              : 0
+Firmware                        : Firmware Version 2.0.7
+Serial Number                   : 220101485
+---- XMP-dc ----
+Creator                         : Photographer: Tim Davis
+Rights                          : Copyright: Tim Davis, Consolidated Photo
+---- XMP-xmp ----
+Create Date                     : 2013:09:29 14:33:50
+Rating                          : 5
+Modify Date                     : 2013:09:29 14:33:50
+Creator Tool                    : Aperture 3.4.4
+---- XMP-photoshop ----
+Date Created                    : 2013:09:29 14:33:50
+---- Composite ----
+Aperture                        : 5.6
+Image Size                      : 3744x3341
+Scale Factor To 35 mm Equivalent: 1.3
+Shutter Speed                   : 1/160
+Create Date                     : 2013:09:29 14:33:50.03
+Date/Time Original              : 2013:09:29 14:33:50.03
+Modify Date                     : 2013:09:29 14:33:50.03
+Circle Of Confusion             : 0.023 mm
+Field Of View                   : 33.8 deg
+Focal Length                    : 45.0 mm (35 mm equivalent: 59.2 mm)
+Hyperfocal Distance             : 15.83 m
+Lens ID                         : Canon EF 24-105mm f/4L IS
+Light Value                     : 10.3

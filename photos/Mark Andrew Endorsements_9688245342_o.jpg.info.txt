@@ -1,0 +1,160 @@
+---- ExifTool ----
+ExifTool Version Number         : 9.41
+---- System ----
+File Name                       : Mark Andrew Endorsements_9688245342_o.jpg
+Directory                       : .
+File Size                       : 2.3 MB
+File Modification Date/Time     : 2014:02:02 17:03:43-06:00
+File Access Date/Time           : 2014:02:02 17:26:02-06:00
+File Inode Change Date/Time     : 2014:02:02 17:03:43-06:00
+File Permissions                : rw-r--r--
+---- File ----
+File Type                       : JPEG
+MIME Type                       : image/jpeg
+Current IPTC Digest             : dd0625c55c2211a1244a93831b11f7a8
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Image Width                     : 4272
+Image Height                    : 2848
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+---- JFIF ----
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 72
+Y Resolution                    : 72
+---- IPTC ----
+Coded Character Set             : UTF8
+Application Record Version      : 2
+By-line                         : Gregory A. Abbott
+Province-State                  : MN
+City                            : Minneapolis
+Country-Primary Location Name   : USA
+---- Photoshop ----
+IPTC Digest                     : dd0625c55c2211a1244a93831b11f7a8
+---- ICC-header ----
+Profile CMM Type                : Lino
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : IEC
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : HP
+Profile ID                      : 0
+---- ICC_Profile ----
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Luminance                       : 76.03647 80 87.12462
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+---- ICC-view ----
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+---- ICC-meas ----
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown (0)
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+---- IFD0 ----
+Make                            : Canon
+Camera Model Name               : Canon EOS DIGITAL REBEL XSi
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : Aperture 3.4.5
+Modify Date                     : 2013:07:10 15:22:16
+---- ExifIFD ----
+Exposure Time                   : 1/400
+F Number                        : 5.6
+Exposure Program                : Aperture-priority AE
+ISO                             : 200
+Exif Version                    : 0221
+Date/Time Original              : 2013:07:10 15:22:16
+Create Date                     : 2013:07:10 15:22:16
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/395
+Aperture Value                  : 5.7
+Exposure Compensation           : 0
+Max Aperture Value              : 7.1
+Metering Mode                   : Multi-segment
+Flash                           : Off, Did not fire
+Focal Length                    : 55.0 mm
+Sub Sec Time                    : 03
+Sub Sec Time Original           : 03
+Sub Sec Time Digitized          : 03
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 4272
+Exif Image Height               : 2848
+Focal Plane X Resolution        : 4865.603774
+Focal Plane Y Resolution        : 4876.712121
+Focal Plane Resolution Unit     : inches
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Scene Capture Type              : Standard
+---- XMP-x ----
+XMP Toolkit                     : XMP Core 5.1.2
+---- XMP-aux ----
+Lens ID                         : 48
+Lens Info                       : 18-55mm f/?
+Lens                            : Canon EF-S 18-55mm f/3.5-5.6 IS
+Flash Compensation              : 0
+Firmware                        : Firmware Version 1.1.0
+Serial Number                   : 1070345397
+---- XMP-dc ----
+Creator                         : Gregory A. Abbott
+---- XMP-photoshop ----
+City                            : Minneapolis
+Country                         : USA
+Date Created                    : 2013:07:10 15:22:16
+State                           : MN
+---- XMP-xmp ----
+Create Date                     : 2013:07:10 15:22:16
+Modify Date                     : 2013:07:10 15:22:16
+Creator Tool                    : Aperture 3.4.5
+---- XMP-iptcCore ----
+Creator Work Telephone          : 612-217-2440
+Creator Country                 : USA
+Creator Work URL                : www.gregabbott.org
+Creator Address                 : 2400 N. 2nd St., #301
+Creator Postal Code             : 55411
+Creator Region                  : MN
+Creator City                    : Minneapolis
+Creator Work Email              : greg@gregabbott.org
+---- Composite ----
+Aperture                        : 5.6
+Image Size                      : 4272x2848
+Scale Factor To 35 mm Equivalent: 1.6
+Shutter Speed                   : 1/400
+Create Date                     : 2013:07:10 15:22:16.03
+Date/Time Original              : 2013:07:10 15:22:16.03
+Modify Date                     : 2013:07:10 15:22:16.03
+Circle Of Confusion             : 0.019 mm
+Field Of View                   : 22.9 deg
+Focal Length                    : 55.0 mm (35 mm equivalent: 88.8 mm)
+Hyperfocal Distance             : 29.04 m
+Lens ID                         : Canon EF-S 18-55mm f/3.5-5.6 IS
+Light Value                     : 12.6

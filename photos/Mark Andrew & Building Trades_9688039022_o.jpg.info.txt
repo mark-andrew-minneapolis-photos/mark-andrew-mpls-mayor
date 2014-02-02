@@ -1,0 +1,196 @@
+---- ExifTool ----
+ExifTool Version Number         : 9.41
+---- System ----
+File Name                       : Mark Andrew & Building Trades_9688039022_o.jpg
+Directory                       : .
+File Size                       : 2.7 MB
+File Modification Date/Time     : 2014:02:02 17:07:32-06:00
+File Access Date/Time           : 2014:02:02 17:25:22-06:00
+File Inode Change Date/Time     : 2014:02:02 17:07:32-06:00
+File Permissions                : rw-r--r--
+---- File ----
+File Type                       : JPEG
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Image Width                     : 4320
+Image Height                    : 3240
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:2 (2 1)
+---- IFD0 ----
+Image Description               : 
+Make                            : Canon
+Camera Model Name               : Canon PowerShot SX210 IS
+Orientation                     : Horizontal (normal)
+X Resolution                    : 180
+Y Resolution                    : 180
+Resolution Unit                 : inches
+Modify Date                     : 2012:04:12 00:57:38
+Y Cb Cr Positioning             : Co-sited
+---- ExifIFD ----
+Exposure Time                   : 1/400
+F Number                        : 4.0
+ISO                             : 160
+Exif Version                    : 0221
+Date/Time Original              : 2012:04:12 00:57:38
+Create Date                     : 2012:04:12 00:57:38
+Components Configuration        : Y, Cb, Cr, -
+Compressed Bits Per Pixel       : 3
+Shutter Speed Value             : 1/403
+Aperture Value                  : 4.0
+Exposure Compensation           : 0
+Max Aperture Value              : 3.1
+Metering Mode                   : Multi-segment
+Flash                           : Auto, Did not fire
+Focal Length                    : 5.0 mm
+User Comment                    : 
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 4320
+Exif Image Height               : 3240
+Focal Plane X Resolution        : 17777.77778
+Focal Plane Y Resolution        : 17802.1978
+Focal Plane Resolution Unit     : inches
+Sensing Method                  : One-chip color area
+File Source                     : Digital Camera
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Digital Zoom Ratio              : 1
+Scene Capture Type              : Standard
+---- Canon ----
+Macro Mode                      : Normal
+Self Timer                      : Off
+Quality                         : Fine
+Canon Flash Mode                : Red-eye reduction (Auto)
+Continuous Drive                : Single
+Focus Mode                      : Single
+Record Mode                     : JPEG
+Canon Image Size                : Large
+Easy Mode                       : Full auto
+Digital Zoom                    : None
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : 0
+Camera ISO                      : Auto
+Metering Mode                   : Evaluative
+Focus Range                     : Auto
+AF Point                        : Face Detect
+Canon Exposure Mode             : Easy
+Lens Type                       : Unknown (-1)
+Max Focal Length                : 70 mm
+Min Focal Length                : 5 mm
+Focal Units                     : 100/mm
+Max Aperture                    : 3.1
+Min Aperture                    : 11
+Flash Bits                      : (none)
+Focus Continuous                : Continuous
+AE Setting                      : Normal AE
+Image Stabilization             : On
+Zoom Source Width               : 4320
+Zoom Target Width               : 4320
+Spot Metering Mode              : Center
+Manual Flash Output             : n/a
+Focal Type                      : Zoom
+Focal Length                    : 5 mm
+Focal Plane X Size              : 6.32 mm
+Focal Plane Y Size              : 4.75 mm
+Canon Flash Info                : 0 0 0 0
+Auto ISO                        : 148
+Base ISO                        : 100
+Measured EV                     : 13.22
+Target Aperture                 : 4
+Target Exposure Time            : 1/403
+Exposure Compensation           : 0
+White Balance                   : Auto
+Slow Shutter                    : Off
+Shot Number In Continuous Burst : 0
+Optical Zoom Code               : 0
+Flash Guide Number              : 0
+Flash Exposure Compensation     : 0
+Auto Exposure Bracketing        : Off
+AEB Bracket Value               : 0
+Control Mode                    : Camera Local Control
+Focus Distance Upper            : 0.9 m
+Focus Distance Lower            : 0 m
+F Number                        : 4
+Exposure Time                   : 1/378
+Bulb Duration                   : 0
+Camera Type                     : Compact
+Auto Rotate                     : None
+ND Filter                       : Off
+Self Timer 2                    : 0
+Flash Output                    : 0
+Canon 0x0000                    : 0 0 0 0 0 0
+Canon Image Type                : IMG:PowerShot SX210 IS JPEG
+Canon Firmware Version          : Firmware Version 1.00
+File Number                     : 120-1310
+Owner Name                      : 
+ISO                             : 150
+F Number                        : 4
+Exposure Time                   : 1/378
+Rotation                        : 0
+Camera Temperature              : 17 C
+Canon Model ID                  : PowerShot SX210 IS
+AF Info Size                    : 98
+AF Area Mode                    : Face Detect AF
+Num AF Points                   : 9
+Valid AF Points                 : 1
+Canon Image Width               : 4320
+Canon Image Height              : 3240
+AF Image Width                  : 320
+AF Image Height                 : 240
+AF Area Widths                  : 14 6548 6568 6588 53 53 0 -74 -74
+AF Area Heights                 : 14 6557 6582 0 24576 53 0 24576 0
+AF Area X Positions             : -8 0 -106 0 0 53 0 0 -86
+AF Area Y Positions             : -32 0 0 0 0 0 0 0 53
+AF Points In Focus              : 0
+Canon AF Info 2 0x000d          : 0 0
+Primary AF Point                : 0
+Thumbnail Image Valid Area      : 0 0 0 0
+Canon 0x0018                    : 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0[...]
+Canon 0x0019                    : 1
+Date Stamp Mode                 : Off
+My Color Mode                   : Off
+Firmware Revision               : 1.00 rev 3.00
+Canon 0x001f                    : 138 1 0 4 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0[...]
+Canon 0x0022                    : 416 0 0 16 8 1 1 640 480 0 0 0 0 0 8 384 0 0 0 0 0 0 0 [...]
+Categories                      : People
+Intelligent Contrast            : Off
+Image Unique ID                 : 4bb469e5ddd7a495a5d3a2aede6b715a
+VRD Offset                      : 0
+Canon 0x002d                    : 0
+Canon 0x002e                    : 8 32767 32767 65535
+Faces Detected                  : 1
+---- InteropIFD ----
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+Related Image Width             : 4320
+Related Image Height            : 3240
+---- IFD1 ----
+Compression                     : JPEG (old-style)
+X Resolution                    : 180
+Y Resolution                    : 180
+Resolution Unit                 : inches
+Thumbnail Offset                : 5120
+Thumbnail Length                : 8192
+---- XMP-xmp ----
+Rating                          : 0
+---- Composite ----
+Aperture                        : 4.0
+Drive Mode                      : Single-frame Shooting
+ISO                             : 148
+Image Size                      : 4320x3240
+Lens                            : 5.0 - 70.0 mm
+Lens ID                         : Unknown 5-70mm
+Scale Factor To 35 mm Equivalent: 5.6
+Shooting Mode                   : Full auto
+Shutter Speed                   : 1/400
+Thumbnail Image                 : (Binary data 8192 bytes, use -b option to extract)
+Circle Of Confusion             : 0.005 mm
+Field Of View                   : 65.4 deg
+Focal Length                    : 5.0 mm (35 mm equivalent: 28.1 mm)
+Hyperfocal Distance             : 1.17 m
+Lens                            : 5.0 - 70.0 mm (35 mm equivalent: 28.1 - 392.7 mm)
+Light Value                     : 12.0

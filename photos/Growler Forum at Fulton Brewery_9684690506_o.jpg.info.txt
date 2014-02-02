@@ -1,0 +1,374 @@
+---- ExifTool ----
+ExifTool Version Number         : 9.41
+---- System ----
+File Name                       : Growler Forum at Fulton Brewery_9684690506_o.jpg
+Directory                       : .
+File Size                       : 4.0 MB
+File Modification Date/Time     : 2014:02:02 17:09:50-06:00
+File Access Date/Time           : 2014:02:02 17:22:17-06:00
+File Inode Change Date/Time     : 2014:02:02 17:09:50-06:00
+File Permissions                : rw-r--r--
+---- File ----
+File Type                       : JPEG
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Image Width                     : 4272
+Image Height                    : 2848
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:2 (2 1)
+---- IFD0 ----
+Make                            : Canon
+Camera Model Name               : Canon EOS DIGITAL REBEL XSi
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Modify Date                     : 2013:09:03 19:32:10
+Y Cb Cr Positioning             : Co-sited
+---- ExifIFD ----
+Exposure Time                   : 1/10
+F Number                        : 4.5
+Exposure Program                : Not Defined
+ISO                             : 800
+Exif Version                    : 0221
+Date/Time Original              : 2013:09:03 19:32:10
+Create Date                     : 2013:09:03 19:32:10
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/10
+Aperture Value                  : 4.6
+Exposure Compensation           : 0
+Metering Mode                   : Multi-segment
+Flash                           : Off, Did not fire
+Focal Length                    : 36.0 mm
+User Comment                    : 
+Sub Sec Time                    : 27
+Sub Sec Time Original           : 27
+Sub Sec Time Digitized          : 27
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 4272
+Exif Image Height               : 2848
+Focal Plane X Resolution        : 4865.603645
+Focal Plane Y Resolution        : 4876.712329
+Focal Plane Resolution Unit     : inches
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Scene Capture Type              : Standard
+---- Canon ----
+Macro Mode                      : Normal
+Self Timer                      : Off
+Quality                         : Fine
+Canon Flash Mode                : Off
+Continuous Drive                : Single
+Focus Mode                      : AI Focus AF
+Record Mode                     : JPEG
+Canon Image Size                : Large
+Easy Mode                       : Flash Off
+Digital Zoom                    : None
+Contrast                        : Normal
+Saturation                      : Normal
+Metering Mode                   : Evaluative
+Focus Range                     : Not Known
+Canon Exposure Mode             : Easy
+Lens Type                       : Canon EF-S 18-55mm f/3.5-5.6 IS
+Max Focal Length                : 55 mm
+Min Focal Length                : 18 mm
+Focal Units                     : 1/mm
+Max Aperture                    : 4.5
+Min Aperture                    : 29
+Flash Activity                  : 0
+Flash Bits                      : (none)
+Zoom Source Width               : 0
+Zoom Target Width               : 0
+Manual Flash Output             : n/a
+Color Tone                      : Normal
+Focal Length                    : 36 mm
+Focal Plane X Unknown           : 46959
+Focal Plane Y Unknown           : 8482
+Canon Flash Info                : 0 0 0 0
+Auto ISO                        : 100
+Base ISO                        : 800
+Measured EV                     : 4.62
+Target Aperture                 : 4.5
+Target Exposure Time            : 1/10
+Exposure Compensation           : 0
+White Balance                   : Auto
+Slow Shutter                    : None
+Shot Number In Continuous Burst : 0
+Optical Zoom Code               : n/a
+Camera Temperature              : 24 C
+Flash Guide Number              : 0
+Flash Exposure Compensation     : 0
+Auto Exposure Bracketing        : Off
+AEB Bracket Value               : 0
+Control Mode                    : Camera Local Control
+F Number                        : 4.5
+Exposure Time                   : 1/10
+Measured EV 2                   : 4.75
+Bulb Duration                   : 0
+Camera Type                     : EOS High-end
+ND Filter                       : n/a
+Canon Image Type                : Canon EOS DIGITAL REBEL XSi
+Canon Firmware Version          : Firmware Version 1.1.0
+Owner Name                      : 
+Serial Number                   : 1070345397
+F Number                        : 4.6
+Exposure Time                   : 1/10
+ISO                             : 800
+Flash Metering Mode             : Off
+Camera Temperature              : 24 C
+Focal Length                    : 36 mm
+Camera Orientation              : Horizontal (normal)
+Focus Distance Upper            : 5.27 m
+Focus Distance Lower            : 1.82 m
+White Balance                   : Auto
+Color Temperature               : 5200
+Lens Type                       : Canon EF-S 18-55mm f/3.5-5.6 IS
+Firmware Version                : 1.1.0
+Owner Name                      : 
+Directory Index                 : 100
+File Index                      : 9848
+Contrast Standard               : 0
+Sharpness Standard              : 3
+Saturation Standard             : 0
+Color Tone Standard             : 0
+Filter Effect Standard          : n/a
+Toning Effect Standard          : n/a
+Contrast Portrait               : 0
+Sharpness Portrait              : 2
+Saturation Portrait             : 0
+Color Tone Portrait             : 0
+Filter Effect Portrait          : n/a
+Toning Effect Portrait          : n/a
+Contrast Landscape              : 0
+Sharpness Landscape             : 4
+Saturation Landscape            : 0
+Color Tone Landscape            : 0
+Filter Effect Landscape         : n/a
+Toning Effect Landscape         : n/a
+Contrast Neutral                : 0
+Sharpness Neutral               : 0
+Saturation Neutral              : 0
+Color Tone Neutral              : 0
+Filter Effect Neutral           : n/a
+Toning Effect Neutral           : n/a
+Contrast Faithful               : 0
+Sharpness Faithful              : 0
+Saturation Faithful             : 0
+Color Tone Faithful             : 0
+Filter Effect Faithful          : n/a
+Toning Effect Faithful          : n/a
+Contrast Monochrome             : 0
+Sharpness Monochrome            : 3
+Saturation Monochrome           : n/a
+Color Tone Monochrome           : n/a
+Filter Effect Monochrome        : None
+Toning Effect Monochrome        : None
+Contrast User Def 1             : 0
+Sharpness User Def 1            : 3
+Saturation User Def 1           : 0
+Color Tone User Def 1           : 0
+Filter Effect User Def 1        : None
+Toning Effect User Def 1        : None
+Contrast User Def 2             : 0
+Sharpness User Def 2            : 3
+Saturation User Def 2           : 0
+Color Tone User Def 2           : 0
+Filter Effect User Def 2        : None
+Toning Effect User Def 2        : None
+Contrast User Def 3             : 0
+Sharpness User Def 3            : 3
+Saturation User Def 3           : 0
+Color Tone User Def 3           : 0
+Filter Effect User Def 3        : None
+Toning Effect User Def 3        : None
+User Def 1 Picture Style        : Standard
+User Def 2 Picture Style        : Standard
+User Def 3 Picture Style        : Standard
+Lens Model                      : EF-S18-55mm f/3.5-5.6 IS
+Canon Model ID                  : EOS Digital Rebel XSi / 450D / Kiss X2
+Thumbnail Image Valid Area      : 0 159 7 112
+Serial Number Format            : Format 2
+Canon 0x0019                    : 1
+AF Info Size                    : 96
+AF Area Mode                    : Multi-point AF or AI AF
+Num AF Points                   : 9
+Valid AF Points                 : 9
+Canon Image Width               : 4272
+Canon Image Height              : 2848
+AF Image Width                  : 4272
+AF Image Height                 : 2848
+AF Area Widths                  : 115 115 115 162 200 162 115 115 115
+AF Area Heights                 : 153 153 153 105 199 105 153 153 153
+AF Area X Positions             : -1127 -674 -674 0 0 0 674 674 1127
+AF Area Y Positions             : 0 321 -321 603 0 -603 321 -321 0
+AF Points In Focus              : 6
+AF Points Selected              : 0,1,2,3,4,5,6,7,8
+Original Decision Data Offset   : 0
+Bracket Mode                    : Off
+Bracket Value                   : 0
+Bracket Shot Number             : 0
+Raw Jpg Size                    : Large
+Long Exposure Noise Reduction 2 : Off
+WB Bracket Mode                 : Off
+WB Bracket Value AB             : 0
+WB Bracket Value GM             : 0
+Live View Shooting              : Off
+Lens Model                      : EF-S18-55mm f/3.5-5.6 IS
+Internal Serial Number          : K1587841
+Dust Removal Data               : (Binary data 1024 bytes, use -b option to extract)
+Crop Left Margin                : 0
+Crop Right Margin               : 0
+Crop Top Margin                 : 0
+Crop Bottom Margin              : 0
+Tone Curve                      : Standard
+Sharpness                       : 3
+Sharpness Frequency             : n/a
+Sensor Red Level                : 0
+Sensor Blue Level               : 0
+White Balance Red               : 0
+White Balance Blue              : 0
+Color Temperature               : 5200
+Picture Style                   : Standard
+Digital Gain                    : 0
+WB Shift AB                     : 0
+WB Shift GM                     : 0
+Measured RGGB                   : 572 1024 1024 619
+Color Space                     : sRGB
+VRD Offset                      : 0
+Sensor Width                    : 4312
+Sensor Height                   : 2876
+Sensor Left Border              : 32
+Sensor Top Border               : 23
+Sensor Right Border             : 4303
+Sensor Bottom Border            : 2870
+Black Mask Left Border          : 0
+Black Mask Top Border           : 0
+Black Mask Right Border         : 0
+Black Mask Bottom Border        : 0
+Color Data Version              : 5 (450D/1000D)
+WB RGGB Levels As Shot          : 1856 1041 1041 1856
+Color Temp As Shot              : 3924
+WB RGGB Levels Auto             : 1856 1041 1041 1856
+Color Temp Auto                 : 3924
+WB RGGB Levels Measured         : 1760 1041 1040 1951
+Color Temp Measured             : 3682
+WB RGGB Levels Unknown          : 0 0 0 0
+Color Temp Unknown              : 0
+WB RGGB Levels Daylight         : 2166 1024 1024 1467
+Color Temp Daylight             : 5200
+WB RGGB Levels Shade            : 2515 1024 1024 1234
+Color Temp Shade                : 7000
+WB RGGB Levels Cloudy           : 2341 1024 1024 1339
+Color Temp Cloudy               : 6000
+WB RGGB Levels Tungsten         : 1610 1085 1085 2308
+Color Temp Tungsten             : 3200
+WB RGGB Levels Fluorescent      : 1888 1032 1032 2021
+Color Temp Fluorescent          : 3776
+WB RGGB Levels Kelvin           : 2166 1024 1024 1467
+Color Temp Kelvin               : 5200
+WB RGGB Levels Flash            : 2405 1024 1024 1311
+Color Temp Flash                : 6304
+WB RGGB Levels Unknown 2        : 2024 1024 1024 1584
+Color Temp Unknown 2            : 4655
+WB RGGB Levels Unknown 3        : 8191 1041 1041 8191
+Color Temp Unknown 3            : 3682
+WB RGGB Levels Unknown 4        : 8191 1041 1041 8191
+Color Temp Unknown 4            : 3682
+WB RGGB Levels Unknown 5        : 8191 1041 1041 8191
+Color Temp Unknown 5            : 3682
+WB RGGB Levels Unknown 6        : 8191 1041 1041 8191
+Color Temp Unknown 6            : 3682
+WB RGGB Levels Unknown 7        : 8191 1041 1041 8191
+Color Temp Unknown 7            : 3682
+WB RGGB Levels Unknown 8        : 8191 1041 1041 8191
+Color Temp Unknown 8            : 3682
+WB RGGB Levels Unknown 9        : 8191 1041 1041 8191
+Color Temp Unknown 9            : 3682
+WB RGGB Levels Unknown 10       : 8191 1041 1041 8191
+Color Temp Unknown 10           : 3682
+WB RGGB Levels Unknown 11       : 8191 1041 1041 8191
+Color Temp Unknown 11           : 3682
+Camera Color Calibration 01     : -381  361  997 (10900K)
+Camera Color Calibration 02     : -357  373  965 (10000K)
+Camera Color Calibration 03     : -299  401  889 (8300K)
+Camera Color Calibration 04     : -268  417  850 (7000K)
+Camera Color Calibration 05     : -209  448  783 (6000K)
+Camera Color Calibration 06     : -181  464  751 (5600K)
+Camera Color Calibration 07     : -146  484  715 (5200K)
+Camera Color Calibration 08     :  -96  516  668 (4700K)
+Camera Color Calibration 09     :  -40  555  618 (4200K)
+Camera Color Calibration 10     :   18  597  569 (3800K)
+Camera Color Calibration 11     :   69  637  527 (3500K)
+Camera Color Calibration 12     :  132  690  481 (3200K)
+Camera Color Calibration 13     :  175  730  452 (3000K)
+Camera Color Calibration 14     :  225  781  423 (2800K)
+Camera Color Calibration 15     :  336  914  367 (2400K)
+Average Black Level             : 1024 1024 1024 1024
+Raw Measured RGGB               : 72476 124647 129656 76140
+Per Channel Black Level         : 1023 1022 1025 1024
+Specular White Level            : 15573
+Linearity Upper Margin          : 10000
+Canon Color Data 4 0x02cb       : 0
+Canon Color Data 4 0x02cf       : 0
+Canon Color Data 4 0x02d0       : 0
+Canon Color Data 4 0x02d1       : 0
+Canon Color Data 4 0x02d3       : 0
+Canon Color Data 4 0x02d4       : 0
+Canon Color Data 4 0x02d5       : 0
+Black Level                     : 129 129 129
+Canon 0x4009                    : 0 0 0
+Custom Picture Style File Name  : 
+Canon 0x4011                    : [...]
+Canon 0x4012                    : 
+---- CanonCustom ----
+Exposure Level Increments       : 1/3 Stop
+Flash Sync Speed Av             : Auto
+Long Exposure Noise Reduction   : Off
+High ISO Noise Reduction        : Off
+Highlight Tone Priority         : Disable
+Auto Lighting Optimizer         : Enable
+AF Assist Beam                  : Emits
+AF During Live View             : Disable
+Mirror Lockup                   : Disable
+Shutter Button AF On Button     : Metering + AF start
+Set Button When Shooting        : Normal (disabled)
+LCD Display At Power On         : Display
+Add Original Decision Data      : Off
+---- InteropIFD ----
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+---- IFD1 ----
+Compression                     : JPEG (old-style)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Thumbnail Offset                : 9660
+Thumbnail Length                : 10575
+---- Composite ----
+Aperture                        : 4.5
+Drive Mode                      : Single-frame Shooting
+File Number                     : 100-9848
+ISO                             : 800
+Image Size                      : 4272x2848
+Lens                            : 18.0 - 55.0 mm
+Lens ID                         : Canon EF-S 18-55mm f/3.5-5.6 IS
+Scale Factor To 35 mm Equivalent: 1.6
+Shooting Mode                   : Flash Off
+Shutter Speed                   : 1/10
+Create Date                     : 2013:09:03 19:32:10.27
+Date/Time Original              : 2013:09:03 19:32:10.27
+Modify Date                     : 2013:09:03 19:32:10.27
+Thumbnail Image                 : (Binary data 10575 bytes, use -b option to extract)
+WB RGGB Levels                  : 1856 1041 1041 1856
+Blue Balance                    : 1.782901
+Circle Of Confusion             : 0.019 mm
+Field Of View                   : 34.4 deg
+Focal Length                    : 36.0 mm (35 mm equivalent: 58.2 mm)
+Hyperfocal Distance             : 15.48 m
+Lens                            : 18.0 - 55.0 mm (35 mm equivalent: 29.1 - 88.8 mm)
+Light Value                     : 4.7
+Red Balance                     : 1.782901

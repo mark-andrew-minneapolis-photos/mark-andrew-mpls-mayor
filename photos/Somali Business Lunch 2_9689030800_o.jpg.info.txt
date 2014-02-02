@@ -1,0 +1,107 @@
+---- ExifTool ----
+ExifTool Version Number         : 9.41
+---- System ----
+File Name                       : Somali Business Lunch 2_9689030800_o.jpg
+Directory                       : .
+File Size                       : 1216 kB
+File Modification Date/Time     : 2014:02:02 17:02:00-06:00
+File Access Date/Time           : 2014:02:02 17:16:36-06:00
+File Inode Change Date/Time     : 2014:02:02 17:02:00-06:00
+File Permissions                : rw-r--r--
+---- File ----
+File Type                       : JPEG
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Image Width                     : 2592
+Image Height                    : 1936
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+---- IFD0 ----
+Make                            : Motorola
+Camera Model Name               : Droid
+Orientation                     : Horizontal (normal)
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+Software                        : 2.2.3
+Modify Date                     : 2013:04:11 11:11:27
+Y Cb Cr Positioning             : Centered
+---- ExifIFD ----
+Exposure Time                   : 1/15
+F Number                        : 2.8
+Exposure Program                : Program AE
+ISO                             : 199
+Exif Version                    : 0220
+Date/Time Original              : 2013:04:11 11:11:27
+Create Date                     : 2013:04:11 11:11:27
+Components Configuration        : Cb, Y, Cr, Y
+Compressed Bits Per Pixel       : 4
+Shutter Speed Value             : 1/15
+Aperture Value                  : 2.8
+Brightness Value                : -0.69140625
+Exposure Compensation           : 0
+Max Aperture Value              : 2.8
+Subject Distance                : 0 m
+Metering Mode                   : Center-weighted average
+Light Source                    : D50
+Flash                           : Auto, Fired, Return detected
+Focal Length                    : 4.0 mm
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 2592
+Exif Image Height               : 1936
+Flash Energy                    : 100
+Exposure Index                  : 199
+Sensing Method                  : One-chip color area
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+Custom Rendered                 : Custom
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Digital Zoom Ratio              : 0
+Focal Length In 35mm Format     : 30 mm
+Scene Capture Type              : Standard
+Gain Control                    : Low gain up
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+Subject Distance Range          : Unknown
+Image Unique ID                 : 
+---- InteropIFD ----
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+---- GPS ----
+GPS Version ID                  : 2.2.0.0
+GPS Latitude Ref                : North
+GPS Latitude                    : 44 deg 56' 52.00"
+GPS Longitude Ref               : West
+GPS Longitude                   : 93 deg 16' 14.00"
+GPS Altitude Ref                : Above Sea Level
+GPS Altitude                    : 272 m
+GPS Time Stamp                  : 16:11:24
+GPS Map Datum                   : 
+GPS Processing Method           : GPS
+GPS Date Stamp                  : 2013:04:11
+---- IFD1 ----
+Compression                     : JPEG (old-style)
+Resolution Unit                 : inches
+Thumbnail Offset                : 2858
+Thumbnail Length                : 25766
+---- Composite ----
+Aperture                        : 2.8
+GPS Altitude                    : 272 m Above Sea Level
+GPS Date/Time                   : 2013:04:11 16:11:24Z
+GPS Latitude                    : 44 deg 56' 52.00" N
+GPS Longitude                   : 93 deg 16' 14.00" W
+GPS Position                    : 44 deg 56' 52.00" N, 93 deg 16' 14.00" W
+Image Size                      : 2592x1936
+Scale Factor To 35 mm Equivalent: 7.5
+Shutter Speed                   : 1/15
+Thumbnail Image                 : (Binary data 25766 bytes, use -b option to extract)
+Circle Of Confusion             : 0.004 mm
+Field Of View                   : 61.9 deg
+Focal Length                    : 4.0 mm (35 mm equivalent: 30.0 mm)
+Hyperfocal Distance             : 1.43 m
+Light Value                     : 5.9

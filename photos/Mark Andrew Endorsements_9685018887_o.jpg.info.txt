@@ -1,0 +1,277 @@
+---- ExifTool ----
+ExifTool Version Number         : 9.41
+---- System ----
+File Name                       : Mark Andrew Endorsements_9685018887_o.jpg
+Directory                       : .
+File Size                       : 5.3 MB
+File Modification Date/Time     : 2014:02:02 17:04:22-06:00
+File Access Date/Time           : 2014:02:02 17:25:36-06:00
+File Inode Change Date/Time     : 2014:02:02 17:04:22-06:00
+File Permissions                : rw-r--r--
+---- File ----
+File Type                       : JPEG
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Image Width                     : 4288
+Image Height                    : 2848
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:2 (2 1)
+---- IFD0 ----
+Make                            : NIKON CORPORATION
+Camera Model Name               : NIKON D90
+Orientation                     : Horizontal (normal)
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+Software                        : Ver.1.00
+Modify Date                     : 2013:07:24 09:04:53
+Y Cb Cr Positioning             : Co-sited
+---- ExifIFD ----
+Exposure Time                   : 1/60
+F Number                        : 4.0
+Exposure Program                : Program AE
+ISO                             : 200
+Exif Version                    : 0221
+Date/Time Original              : 2013:07:24 09:04:53
+Create Date                     : 2013:07:24 09:04:53
+Components Configuration        : Y, Cb, Cr, -
+Compressed Bits Per Pixel       : 4
+Exposure Compensation           : 0
+Max Aperture Value              : 3.9
+Metering Mode                   : Multi-segment
+Light Source                    : Unknown
+Flash                           : On, Return detected
+Focal Length                    : 24.0 mm
+User Comment                    : 
+Sub Sec Time                    : 00
+Sub Sec Time Original           : 00
+Sub Sec Time Digitized          : 00
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 4288
+Exif Image Height               : 2848
+Sensing Method                  : One-chip color area
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+CFA Pattern                     : [Green,Blue][Red,Green]
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Digital Zoom Ratio              : 1
+Focal Length In 35mm Format     : 36 mm
+Scene Capture Type              : Standard
+Gain Control                    : None
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+Subject Distance Range          : Unknown
+---- Nikon ----
+Maker Note Version              : 2.10
+ISO                             : 200
+Quality                         : Fine
+White Balance                   : Auto
+Focus Mode                      : AF-A
+Flash Setting                   : Normal
+Flash Type                      : Optional,TTL
+White Balance Fine Tune         : 0 0
+WB RB Levels                    : 1.7734375 1.3671875 1 1
+Program Shift                   : 0
+Exposure Difference             : -1.6
+Flash Exposure Compensation     : 0
+ISO Setting                     : 
+Image Boundary                  : 0 0 4288 2848
+External Flash Exposure Comp    : 0
+Flash Exposure Bracket Value    : 0.0
+Exposure Bracket Value          : 0
+Crop Hi Speed                   : Off (4352x2868 cropped to 4352x2868 at pixel 0,0)
+Exposure Tuning                 : 0
+Serial Number                   : 3253030
+Color Space                     : sRGB
+VR Info Version                 : 0100
+Vibration Reduction             : Off
+VR Mode                         : Normal
+Active D-Lighting               : Extra High
+Picture Control Version         : 0100
+Picture Control Name            : Vivid
+Picture Control Base            : Vivid
+Picture Control Adjust          : Full Control
+Picture Control Quick Adjust    : Normal
+Sharpness                       : 5
+Contrast                        : Normal
+Brightness                      : Normal
+Saturation                      : Normal
+Hue Adjustment                  : None
+Filter Effect                   : n/a
+Toning Effect                   : n/a
+Toning Saturation               : n/a
+Timezone                        : -06:00
+Daylight Savings                : Yes
+Date Display Format             : Y/M/D
+ISO                             : 200
+ISO Expansion                   : Off
+ISO2                            : 100
+ISO Expansion 2                 : Lo 1.0
+Unknown Info Version            : 0100
+Lens Type                       : G VR
+Lens                            : 18-200mm f/3.5-5.6
+Flash Mode                      : Fired, External
+Shooting Mode                   : Single-Frame, Auto ISO
+Nikon 0x008a                    : 1
+Lens F Stops                    : 5.33
+Shot Info Version               : 0213
+Firmware Version                : 1.00i
+ISO2                            : 200
+Shutter Count                   : 20821
+Noise Reduction                 : Off
+WB GRBG Levels                  : 256 454 350 256
+Lens Data Version               : 0204
+Exit Pupil Position             : 93.1 mm
+AF Aperture                     : 3.9
+Focus Position                  : 0x44
+Focus Distance                  : 2.24 m
+Focal Length                    : 24.5 mm
+Lens ID Number                  : 139
+Lens F Stops                    : 5.33
+Min Focal Length                : 18.3 mm
+Max Focal Length                : 201.6 mm
+Max Aperture At Min Focal       : 3.6
+Max Aperture At Max Focal       : 5.7
+MCU Version                     : 253
+Effective Max Aperture          : 3.9
+Retouch History                 : None
+Image Data Size                 : 5482261
+Nikon 0x00a3                    : 0
+Shutter Count                   : 20821
+Flash Info Version              : 0103
+Flash Source                    : External
+External Flash Firmware         : 4.04 (SB-400)
+External Flash Flags            : Fired, Bounce Flash, [7]
+Flash Commander Mode            : Off
+Flash Control Mode              : iTTL-BL
+Flash Compensation              : 0
+Flash Focal Length              : 27 mm
+Flash GN Distance               : 0
+Flash Color Filter              : None
+Flash Group A Control Mode      : Off
+Flash Group B Control Mode      : Off
+Flash Group C Control Mode      : Off
+Flash Group A Compensation      : 0
+Flash Group B Compensation      : 0
+Flash Group C Compensation      : 0
+Vari Program                    : 
+Multi Exposure Version          : 0100
+Multi Exposure Mode             : Off
+Multi Exposure Shots            : 0
+Multi Exposure Auto Gain        : Off
+High ISO Noise Reduction        : Off
+Power Up Time                   : 2013:07:24 09:03:56
+AF Info 2 Version               : 0100
+Contrast Detect AF              : Off
+AF Area Mode                    : Auto-area
+Phase Detect AF                 : On (11-point)
+Primary AF Point                : Center
+AF Points Used                  : Center, Bottom, Upper-left, Lower-left, Far Left, Upper-right, Lower-right
+Contrast Detect AF In Focus     : No
+File Info Version               : 0100
+Directory Number                : 100
+File Number                     : 0977
+Nikon 0x00bb                    : 0100ÿ
+---- PreviewIFD ----
+Compression                     : JPEG (old-style)
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+Preview Image Start             : 10204
+Preview Image Length            : 25539
+Y Cb Cr Positioning             : Co-sited
+---- NikonCustom ----
+Light Switch                    : LCD Backlight
+AF Area Mode Setting            : Auto-area
+Center Focus Point              : Normal Zone
+AF Assist                       : On
+AF Point Illumination           : Auto
+Focus Point Wrap                : No Wrap
+AE Lock For MB-D80              : AE/AF Lock
+MB-D80 Battery Type             : LR6 (AA alkaline)
+Beep                            : Off
+Grid Display                    : Off
+ISO Display                     : Show Frame Count
+Viewfinder Warning              : On
+No Memory Card                  : Release Locked
+Screen Tips                     : On
+File Number Sequence            : Off
+Shooting Info Display           : Auto
+LCD Illumination                : Off
+Easy Exposure Comp              : Off
+Reverse Indicators              : + 0 -
+Exposure Control Step Size      : 1/3 EV
+Center Weighted Area Size       : 8 mm
+Fine Tune Opt Matrix Metering   : 0
+Fine Tune Opt Center Weighted   : 0
+Fine Tune Opt Spot Metering     : 0
+CL Mode Shooting Speed          : 3 fps
+Exposure Delay Mode             : Off
+Auto Bracket Set                : AE & Flash
+Auto Bracket Order              : 0,-,+
+Func Button                     : FV Lock
+OK Button                       : Select Center Focus Point
+AE Lock Button                  : AE/AF Lock
+Command Dials Reverse Rotation  : No
+Shutter Release Button AE-L     : Off
+Metering Time                   : 6 s
+Remote On Duration              : 1 min
+Self Timer Time                 : 10 s
+Self Timer Shot Count           : 1
+Playback Monitor Off Time       : 10 s
+Image Review Time               : 4 s
+Menu Monitor Off Time           : 20 s
+Shooting Info Monitor Off Time  : 10 s
+Flash Shutter Speed             : 1/60 s
+Internal Flash                  : TTL
+Manual Flash Output             : Full
+Repeating Flash Output          : 1/32
+Repeating Flash Count           : 10
+Repeating Flash Rate            : 10 Hz
+Flash Warning                   : On
+Commander Internal TTL Comp     : 0
+Modeling Flash                  : Off
+Auto FP                         : Off
+Commander Group A TTL Comp      : 0
+Commander Group B TTL Comp      : 0
+Live View AF                    : Wide Area
+---- InteropIFD ----
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+---- GPS ----
+GPS Version ID                  : 2.2.0.0
+---- IFD1 ----
+Compression                     : JPEG (old-style)
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+Thumbnail Offset                : 35904
+Thumbnail Length                : 9183
+Y Cb Cr Positioning             : Co-sited
+---- Composite ----
+Aperture                        : 4.0
+Auto Focus                      : On
+Blue Balance                    : 1.367188
+Image Size                      : 4288x2848
+Lens ID                         : AF-S DX VR Zoom-Nikkor 18-200mm f/3.5-5.6G IF-ED [II]
+Lens                            : 18-200mm f/3.5-5.6 G VR
+Preview Image                   : (Binary data 25539 bytes, use -b option to extract)
+Red Balance                     : 1.773438
+Scale Factor To 35 mm Equivalent: 1.5
+Shutter Speed                   : 1/60
+Create Date                     : 2013:07:24 09:04:53.00
+Date/Time Original              : 2013:07:24 09:04:53.00
+Modify Date                     : 2013:07:24 09:04:53.00
+Thumbnail Image                 : (Binary data 9183 bytes, use -b option to extract)
+Circle Of Confusion             : 0.020 mm
+Depth Of Field                  : 1.52 m (1.71 - 3.24)
+Field Of View                   : 52.6 deg (2.21 m)
+Focal Length                    : 24.0 mm (35 mm equivalent: 36.0 mm)
+Hyperfocal Distance             : 7.19 m
+Light Value                     : 8.9
