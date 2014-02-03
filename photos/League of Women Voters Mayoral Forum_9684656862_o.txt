@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2014   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MarkForMpls
+Photo URL    : http://www.flickr.com/photos/markformpls/9684656862/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 3 05:41:02 GMT-0500 2012
+Upload Date  : Thu Sep 5 21:51:39 GMT-0500 2013
+Views        : 80
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+League of Women Voters Mayoral Forum
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Minneapolis mn usa Mpls MplsMayor MplsDFL DFL TeamAndrew 

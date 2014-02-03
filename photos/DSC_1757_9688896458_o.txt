@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2014   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MarkForMpls
+Photo URL    : http://www.flickr.com/photos/markformpls/9688896458/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 9 16:21:06 GMT-0500 2013
+Upload Date  : Fri Sep 6 12:52:31 GMT-0500 2013
+Views        : 58
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_1757
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+MplsDFL MN USA Minneapolis Mpls MplsMayor TeamAndrew 

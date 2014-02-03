@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2014   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MarkForMpls
+Photo URL    : http://www.flickr.com/photos/markformpls/9689087102/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 10 16:55:15 GMT-0500 2013
+Upload Date  : Fri Sep 6 13:31:04 GMT-0500 2013
+Views        : 90
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_1798
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mark Andrew for Minneapolis Mayor
+
+
++--------+
+|  TAGS  |
++--------+
+Minneapolis MN USA Mpls MplsDFL MplsMayor TeamAndrew 

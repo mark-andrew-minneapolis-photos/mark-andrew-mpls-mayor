@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2014   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MarkForMpls
+Photo URL    : http://www.flickr.com/photos/markformpls/10482093725/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 25 16:22:49 GMT-0500 2013
+Upload Date  : Fri Oct 25 16:22:49 GMT-0500 2013
+Views        : 24
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+906123_568755453178264_1277261535_o
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

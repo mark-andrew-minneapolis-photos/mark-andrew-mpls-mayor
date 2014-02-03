@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 02, 2014   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MarkForMpls
+Photo URL    : http://www.flickr.com/photos/markformpls/9688003412/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 5 09:08:43 GMT-0500 2013
+Upload Date  : Fri Sep 6 10:20:00 GMT-0500 2013
+Views        : 74
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Filing for Office
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Minneapolis MN MplsMayor MplsDFL TeamAndrew usa Mpls DFL 
